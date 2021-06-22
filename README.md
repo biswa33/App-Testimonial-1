@@ -1,4 +1,4 @@
 # App-Testimonial-1
 Testimonial Slider using owl carousel2 with html5 &amp; css3
 
-![]('tesimonial%20thumbnail.png')
+![App-Testimonial-1]('./tesimonial%20thumbnail.png')
