@@ -87,7 +87,7 @@ img {
   border-radius: 50%;
   border: 1px solid var(--secondary-color);
   padding: 4px;
-  background: #FFFFFF;
+  background: var(--base-color);
 }
 
 svg {
